@@ -32,4 +32,4 @@ Geographic map reveals state-level sales distribution across the United States
 Date slicer allows dynamic filtering of all visuals by invoice date
 
 6. Screenshots/deos
-   The dashboard 
+   The dashboard is https://github.com/afilashahra28-gif/Coca-Cola-sales-Dashboard/blob/main/Snapshot%20of%20dashboard.png
